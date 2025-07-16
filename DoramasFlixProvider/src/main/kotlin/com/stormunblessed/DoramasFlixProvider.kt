@@ -15,7 +15,7 @@ class DoramasFlixProvider:MainAPI() {
         private val mediaType = "application/json; charset=utf-8".toMediaType()
     }
 
-    override var mainUrl = "https://doramasflix.co"
+    override var mainUrl = "https://doramasflix.in"
     override var name = "Doramasflix"
     override var lang = "es"
     override val hasMainPage = true
