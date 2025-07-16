@@ -28,8 +28,8 @@ class MonoschinosProvider : MainAPI() {
 
     }
 
-    override var mainUrl = "https://monoschinos2.com"
-    override var name = "Monoschinos"
+    override var mainUrl = "https://ww3.animeonline.ninja"
+    override var name = "VerAnime.top"
     override var lang = "es"
     override val hasMainPage = true
     override val hasChromecastSupport = true
